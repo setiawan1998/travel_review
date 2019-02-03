@@ -1,0 +1,260 @@
+[2019-01-26 18:53:31.485] [sharedprocess] [info] main {"machineId":"997113ead806224a34a0fd4711313e96ff83f1d730a2684c4766d1f2cc2b16b7"}
+[2019-01-26 18:53:31.523] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 18:53:31.550] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 18:53:31.571] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 18:53:31.581] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 18:53:31.633] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 18:53:31.640] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 18:53:31.643] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 18:54:11.489] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-01-26 18:58:31.598] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:03:31.612] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:08:31.627] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:13:31.642] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:18:31.653] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:23:31.669] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:28:31.683] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:33:31.711] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:38:31.759] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:41:19.841] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:41:19.842] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:41:19.842] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:41:19.842] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:41:20.692] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:41:20.699] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:41:20.705] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:41:30.992] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:41:31.036] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:41:41.127] [sharedprocess] [info] Installing extension: php-intellisense
+[2019-01-26 19:41:41.129] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-26 19:41:45.097] [sharedprocess] [info] Downloaded extension: php-intellisense /tmp/e662f9f9-8513-4f6b-b132-ab1d5eefb8b3
+[2019-01-26 19:41:47.154] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.felixfbecker.php-intellisense-2.3.10: felixfbecker.php-intellisense-2.3.10
+[2019-01-26 19:41:47.154] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.10
+[2019-01-26 19:41:47.158] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense-2.3.10
+[2019-01-26 19:41:47.210] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
+[2019-01-26 19:41:47.334] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:41:47.369] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:41:58.481] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:41:58.481] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:41:58.489] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:41:58.498] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:41:58.501] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:41:58.591] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:41:58.595] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:41:58.599] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:41:58.602] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 19:42:00.329] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:47:00.360] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:52:00.394] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 19:57:00.592] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:02:00.604] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:05:24.434] [sharedprocess] [info] Installing extension: codeigniter-extension
+[2019-01-26 20:05:24.437] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:05:24.941] [sharedprocess] [info] Downloaded extension: codeigniter-extension /tmp/7b22e8f7-d368-4dc2-944d-4d8400349bb2
+[2019-01-26 20:05:24.997] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.alshba7.codeigniter-extension-0.0.2: alshba7.codeigniter-extension-0.0.2
+[2019-01-26 20:05:24.997] [sharedprocess] [info] Renamed to /root/.vscode/extensions/alshba7.codeigniter-extension-0.0.2
+[2019-01-26 20:05:25.000] [sharedprocess] [info] Installation completed. alshba7.codeigniter-extension-0.0.2
+[2019-01-26 20:05:25.037] [sharedprocess] [info] Extensions installed successfully: alshba7.codeigniter-extension
+[2019-01-26 20:05:25.161] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:05:25.204] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:05:28.134] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:05:28.135] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:05:28.150] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:05:28.165] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:05:28.169] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:05:28.287] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:05:28.293] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:05:28.297] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:05:28.303] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:05:29.364] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:05:56.597] [sharedprocess] [info] Installing extension: php-ci
+[2019-01-26 20:05:56.599] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:06:02.723] [sharedprocess] [info] Downloaded extension: php-ci /tmp/28b5e129-ae06-4786-a5ef-952ae96a37e7
+[2019-01-26 20:06:06.699] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.small.php-ci-0.2.10: small.php-ci-0.2.10
+[2019-01-26 20:06:06.699] [sharedprocess] [info] Renamed to /root/.vscode/extensions/small.php-ci-0.2.10
+[2019-01-26 20:06:06.700] [sharedprocess] [info] Installation completed. small.php-ci-0.2.10
+[2019-01-26 20:06:06.782] [sharedprocess] [info] Extensions installed successfully: small.php-ci
+[2019-01-26 20:06:06.909] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:06.934] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:09.500] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:09.501] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:09.504] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:09.513] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:09.516] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:09.645] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:09.651] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:09.656] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:09.662] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:10.668] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:30.692] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:30.693] [sharedprocess] [info] Uninstalling extension: small.php-ci-0.2.10
+[2019-01-26 20:06:30.695] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:30.724] [sharedprocess] [info] Successfully uninstalled extension: small.php-ci-0.2.10
+[2019-01-26 20:06:31.126] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:31.141] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:06:34.712] [sharedprocess] [info] Installing extension: ci-snippets
+[2019-01-26 20:06:34.761] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:06:35.205] [sharedprocess] [info] Downloaded extension: ci-snippets /tmp/e06bfde4-1794-4faa-b4d5-fae9c0ab7bd5
+[2019-01-26 20:06:35.254] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.secato.ci-snippets-0.0.2: secato.ci-snippets-0.0.2
+[2019-01-26 20:06:35.254] [sharedprocess] [info] Renamed to /root/.vscode/extensions/secato.ci-snippets-0.0.2
+[2019-01-26 20:06:35.254] [sharedprocess] [info] Installation completed. secato.ci-snippets-0.0.2
+[2019-01-26 20:06:35.288] [sharedprocess] [info] Extensions installed successfully: secato.ci-snippets
+[2019-01-26 20:06:35.430] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:35.433] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:39.721] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:39.759] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:39.759] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:39.760] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:39.760] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:06:39.768] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:39.801] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:39.842] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:39.887] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:06:40.824] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:07:29.030] [sharedprocess] [info] Installing extension: ci-snippets2
+[2019-01-26 20:07:29.071] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:07:29.430] [sharedprocess] [info] Downloaded extension: ci-snippets2 /tmp/6cde1c26-b8c2-44db-ab68-729ef60a09a2
+[2019-01-26 20:07:29.477] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.anish-m.ci-snippets2-1.0.0: anish-m.ci-snippets2-1.0.0
+[2019-01-26 20:07:29.478] [sharedprocess] [info] Renamed to /root/.vscode/extensions/anish-m.ci-snippets2-1.0.0
+[2019-01-26 20:07:29.478] [sharedprocess] [info] Installation completed. anish-m.ci-snippets2-1.0.0
+[2019-01-26 20:07:29.507] [sharedprocess] [info] Extensions installed successfully: anish-m.ci-snippets2
+[2019-01-26 20:07:29.649] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:07:29.649] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:07:34.139] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:07:34.212] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:07:34.252] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:07:34.258] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:07:34.258] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:07:34.258] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:07:34.262] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:07:34.318] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:07:34.371] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:07:35.415] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:12:35.478] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:17:35.526] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:22:35.586] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:27:35.637] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:32:35.688] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:37:35.739] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:42:35.789] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:44:01.043] [sharedprocess] [info] Installing extension: html-snippets
+[2019-01-26 20:44:01.080] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:44:02.217] [sharedprocess] [info] Downloaded extension: html-snippets /tmp/17341d83-b21f-49df-8ce5-e07a6daddfbc
+[2019-01-26 20:44:02.280] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.abusaidm.html-snippets-0.2.1: abusaidm.html-snippets-0.2.1
+[2019-01-26 20:44:02.280] [sharedprocess] [info] Renamed to /root/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2019-01-26 20:44:02.282] [sharedprocess] [info] Installation completed. abusaidm.html-snippets-0.2.1
+[2019-01-26 20:44:02.308] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2019-01-26 20:44:02.462] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:44:02.487] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:44:04.754] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:44:04.754] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:44:04.755] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:44:04.755] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:44:04.788] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:44:04.831] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:44:04.873] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:44:05.044] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:44:05.683] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:44:05.792] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:49:05.861] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:49:30.556] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:49:30.557] [sharedprocess] [info] Uninstalling extension: secato.ci-snippets-0.0.2
+[2019-01-26 20:49:30.590] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-26 20:49:30.624] [sharedprocess] [info] Successfully uninstalled extension: secato.ci-snippets-0.0.2
+[2019-01-26 20:49:31.800] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:49:31.815] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:49:34.683] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:49:34.684] [sharedprocess] [info] Uninstalling extension: anish-m.ci-snippets2-1.0.0
+[2019-01-26 20:49:34.717] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-26 20:49:34.751] [sharedprocess] [info] Successfully uninstalled extension: anish-m.ci-snippets2-1.0.0
+[2019-01-26 20:49:35.179] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:49:35.185] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:49:39.644] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:49:39.644] [sharedprocess] [info] Uninstalling extension: alshba7.codeigniter-extension-0.0.2
+[2019-01-26 20:49:39.678] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-26 20:49:39.702] [sharedprocess] [info] Successfully uninstalled extension: alshba7.codeigniter-extension-0.0.2
+[2019-01-26 20:49:40.139] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:49:40.147] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:49:42.080] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:49:42.081] [sharedprocess] [info] Uninstalling extension: abusaidm.html-snippets-0.2.1
+[2019-01-26 20:49:42.114] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 20:49:42.148] [sharedprocess] [info] Successfully uninstalled extension: abusaidm.html-snippets-0.2.1
+[2019-01-26 20:49:42.565] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:49:42.574] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:49:45.826] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:49:45.893] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:49:45.930] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:49:45.939] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:49:45.939] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:49:45.939] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 20:49:45.944] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:49:45.985] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:49:46.025] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:49:47.180] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:54:47.240] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 20:59:47.489] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:04:47.538] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:09:47.586] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:14:47.644] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:19:47.707] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:24:47.764] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:29:47.816] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:34:47.866] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:39:47.918] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:44:47.973] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:49:48.023] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:54:48.082] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 21:59:49.206] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 22:04:49.258] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 22:08:24.706] [sharedprocess] [info] Installing extension: html-snippets
+[2019-01-26 22:08:24.762] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-26 22:08:25.710] [sharedprocess] [info] Downloaded extension: html-snippets /tmp/1ebd0e5b-76f8-4113-8a78-1488d725f21a
+[2019-01-26 22:08:25.780] [sharedprocess] [info] Removed the extension from uninstalled list: abusaidm.html-snippets-0.2.1
+[2019-01-26 22:08:25.814] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:08:25.815] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2019-01-26 22:08:26.040] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:08:26.075] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 22:08:28.678] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 22:08:28.679] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 22:08:28.679] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 22:08:28.679] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-26 22:08:28.703] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:08:28.793] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:08:28.871] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:08:29.305] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:08:29.363] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:08:29.424] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:13:29.658] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:18:29.711] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:23:29.754] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:28:29.811] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:33:29.863] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:38:30.042] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:43:30.096] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:48:30.140] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:53:30.193] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 22:58:30.239] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:03:30.625] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:08:30.677] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:13:30.725] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:18:30.767] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:23:30.815] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:28:30.869] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:33:30.930] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:38:30.981] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:43:31.032] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:48:31.078] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:53:31.129] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-26 23:58:31.184] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:03:31.605] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:08:31.655] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:13:31.708] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:18:31.759] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:23:31.831] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:28:31.885] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:33:31.924] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:38:31.974] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:43:32.038] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:48:32.096] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:53:32.144] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-27 00:58:32.198] [sharedprocess] [info] Scanned user extensions: 2

@@ -1,0 +1,7 @@
+[Error - 8:06:38 PM] Request textDocument/hover failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at TextDocumentFeature.stop._onStop.resolveConnection.then.connection.shutdown.then (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:2062:28)
+	at <anonymous>
+Language server exited with exit code 0

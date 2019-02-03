@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "997113ead806224a34a0fd4711313e96ff83f1d730a2684c4766d1f2cc2b16b7",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/var/www/html/travel_review",
+                "external": "file:///var/www/html/travel_review",
+                "path": "/var/www/html/travel_review",
+                "scheme": "file"
+            },
+            "backupPath": "/var/www/html/travel_review/~/.vscode-root/Backups/fb44d9df06cb3e1c939b0aa39413c7a5",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 35,
+                "width": 1600,
+                "height": 865
+            }
+        }
+    },
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///var/www/html/travel_review"
+        ],
+        "files2": []
+    }
+}
